@@ -1,0 +1,27 @@
+# Secrets — never commit
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Generated outputs
+interview_questions.json
+interview_scores.json
+interview_report.json
+
+# Whisper / model caches
+*.pt
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db

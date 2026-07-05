@@ -1,0 +1,152 @@
+{
+  "contact_info": {
+    "name": "Priya Sharma",
+    "email": "priya.sharma@email.com",
+    "phone": "98765 43210",
+    "location": "Bengaluru, India",
+    "linkedin": "linkedin.com/in/priyasharma",
+    "github": "github.com/priyasharma"
+  },
+  "skills": {
+    "by_category": {
+      "languages": [
+        "Python",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "web_frameworks": [
+        "React",
+        "Django",
+        "FastAPI",
+        "Node.js"
+      ],
+      "ml_ai": [],
+      "databases": [
+        "SQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis"
+      ],
+      "cloud_devops": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "GitHub Actions"
+      ],
+      "tools": [
+        "Git",
+        "GitHub",
+        "Bash",
+        "Jupyter",
+        "VS Code",
+        "Postman",
+        "Jira"
+      ]
+    },
+    "all_skills": [
+      "GitHub Actions",
+      "Node.js",
+      "MongoDB",
+      "Python",
+      "AWS",
+      "Jira",
+      "React",
+      "JavaScript",
+      "Redis",
+      "GitHub",
+      "Kubernetes",
+      "TypeScript",
+      "VS Code",
+      "Django",
+      "Docker",
+      "Git",
+      "Jupyter",
+      "FastAPI",
+      "Postman",
+      "Bash",
+      "PostgreSQL",
+      "SQL"
+    ],
+    "count": 22
+  },
+  "education": [
+    {
+      "text": "B.Tech in Computer Science — National Institute of Technology, Trichy"
+    },
+    {
+      "date": "2016",
+      "text": "2016 – 2020 | CGPA: 8.7 / 10"
+    },
+    {
+      "date": "2016",
+      "text": "2016 – 2020 | CGPA: 8.7 / 10"
+    }
+  ],
+  "experience": [
+    {
+      "role": "",
+      "company": "",
+      "duration": "Jan 2022 – Present",
+      "responsibilities": [
+        "Architected a microservices-based order management system reducing latency by 35%",
+        "Led migration of monolithic Django app to FastAPI, improving throughput by 60%",
+        "Mentored 3 junior engineers; conducted weekly code reviews",
+        "Software Engineer — Infosys Ltd."
+      ]
+    },
+    {
+      "role": "",
+      "company": "",
+      "duration": "Jul 2020 – Dec 2021",
+      "responsibilities": [
+        "Developed REST APIs for an e-commerce client (US market) using Django REST Framework",
+        "Reduced PostgreSQL query times by 40% through indexing and query optimization",
+        "Collaborated with cross-functional teams across 3 time zones"
+      ]
+    }
+  ],
+  "experience_years": 4.0,
+  "experience_detailed": [
+    {
+      "role": "",
+      "company": "",
+      "duration": "Jan 2022 – Present",
+      "responsibilities": [
+        "Architected a microservices-based order management system reducing latency by 35%",
+        "Led migration of monolithic Django app to FastAPI, improving throughput by 60%",
+        "Mentored 3 junior engineers; conducted weekly code reviews",
+        "Software Engineer — Infosys Ltd."
+      ]
+    },
+    {
+      "role": "",
+      "company": "",
+      "duration": "Jul 2020 – Dec 2021",
+      "responsibilities": [
+        "Developed REST APIs for an e-commerce client (US market) using Django REST Framework",
+        "Reduced PostgreSQL query times by 40% through indexing and query optimization",
+        "Collaborated with cross-functional teams across 3 time zones"
+      ]
+    }
+  ],
+  "projects": [],
+  "organizations": [
+    "Kubernetes",
+    "• Collaborated",
+    "TypeScript",
+    "Computer Science — National Institute of Technology",
+    "• Led",
+    "GitHub Actions",
+    "• Google Professional Data Engineer",
+    "SQL",
+    "JavaScript",
+    "Software Engineer — Infosys Ltd."
+  ],
+  "sections": {
+    "summary": "Full-stack software engineer with 4 years of experience building scalable web applications using Python,\nDjango, and React. Passionate about clean code, system design, and mentoring junior developers.\nContributed to products serving 2M+ users.\n",
+    "experience": "Senior Software Engineer — Flipkart Internet Pvt. Ltd.\nJan 2022 – Present\n• Architected a microservices-based order management system reducing latency by 35%\n• Led migration of monolithic Django app to FastAPI, improving throughput by 60%\n• Mentored 3 junior engineers; conducted weekly code reviews\nSoftware Engineer — Infosys Ltd.\nJul 2020 – Dec 2021\n• Developed REST APIs for an e-commerce client (US market) using Django REST Framework\n• Reduced PostgreSQL query times by 40% through indexing and query optimization\n• Collaborated with cross-functional teams across 3 time zones\n",
+    "projects": "",
+    "skills": "Languages: Python, JavaScript, TypeScript, SQL, Bash\nFrameworks: Django, FastAPI, React, Node.js, Redux\nDatabases: PostgreSQL, MongoDB, Redis\nCloud/DevOps: AWS (EC2, S3, Lambda), Docker, Kubernetes, GitHub Actions\nTools: Git, Jira, Postman, Jupyter, VS Code\n",
+    "education": "B.Tech in Computer Science — National Institute of Technology, Trichy\n2016 – 2020 | CGPA: 8.7 / 10\nCERTIFICATIONS\n• AWS Certified Solutions Architect – Associate (2023)\n• Google Professional Data Engineer (2022)\n"
+  }
+}

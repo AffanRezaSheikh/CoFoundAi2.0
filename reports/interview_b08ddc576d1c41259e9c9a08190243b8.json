@@ -1,0 +1,286 @@
+{
+  "candidate_id": "b08ddc576d1c41259e9c9a08190243b8",
+  "metadata": {
+    "name": "Priya Sharma",
+    "email": "priya.sharma@email.com",
+    "role": "Software Engineer"
+  },
+  "timestamp": "2026-07-04T13:23:55.636746+00:00",
+  "stages_failed": [],
+  "cv_data": {
+    "contact_info": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@email.com",
+      "phone": "98765 43210",
+      "location": "Bengaluru, India",
+      "linkedin": "linkedin.com/in/priyasharma",
+      "github": "github.com/priyasharma"
+    },
+    "skills": {
+      "by_category": {
+        "languages": [
+          "Python",
+          "JavaScript",
+          "TypeScript"
+        ],
+        "web_frameworks": [
+          "React",
+          "Django",
+          "FastAPI",
+          "Node.js"
+        ],
+        "ml_ai": [],
+        "databases": [
+          "SQL",
+          "PostgreSQL",
+          "MongoDB",
+          "Redis"
+        ],
+        "cloud_devops": [
+          "AWS",
+          "Docker",
+          "Kubernetes",
+          "GitHub Actions"
+        ],
+        "tools": [
+          "Git",
+          "GitHub",
+          "Bash",
+          "Jupyter",
+          "VS Code",
+          "Postman",
+          "Jira"
+        ]
+      },
+      "all_skills": [
+        "FastAPI",
+        "PostgreSQL",
+        "Django",
+        "GitHub",
+        "React",
+        "MongoDB",
+        "Postman",
+        "Docker",
+        "Redis",
+        "VS Code",
+        "Git",
+        "SQL",
+        "Python",
+        "JavaScript",
+        "Bash",
+        "GitHub Actions",
+        "Jupyter",
+        "Node.js",
+        "TypeScript",
+        "Jira",
+        "Kubernetes",
+        "AWS"
+      ],
+      "count": 22
+    },
+    "education": [
+      {
+        "text": "B.Tech in Computer Science — National Institute of Technology, Trichy"
+      },
+      {
+        "date": "2016",
+        "text": "2016 – 2020 | CGPA: 8.7 / 10"
+      },
+      {
+        "date": "2016",
+        "text": "2016 – 2020 | CGPA: 8.7 / 10"
+      }
+    ],
+    "experience": [
+      {
+        "role": "",
+        "company": "",
+        "duration": "Jan 2022 – Present",
+        "responsibilities": [
+          "Architected a microservices-based order management system reducing latency by 35%",
+          "Led migration of monolithic Django app to FastAPI, improving throughput by 60%",
+          "Mentored 3 junior engineers; conducted weekly code reviews",
+          "Software Engineer — Infosys Ltd."
+        ]
+      },
+      {
+        "role": "",
+        "company": "",
+        "duration": "Jul 2020 – Dec 2021",
+        "responsibilities": [
+          "Developed REST APIs for an e-commerce client (US market) using Django REST Framework",
+          "Reduced PostgreSQL query times by 40% through indexing and query optimization",
+          "Collaborated with cross-functional teams across 3 time zones"
+        ]
+      }
+    ],
+    "experience_years": 4.0,
+    "experience_detailed": [
+      {
+        "role": "",
+        "company": "",
+        "duration": "Jan 2022 – Present",
+        "responsibilities": [
+          "Architected a microservices-based order management system reducing latency by 35%",
+          "Led migration of monolithic Django app to FastAPI, improving throughput by 60%",
+          "Mentored 3 junior engineers; conducted weekly code reviews",
+          "Software Engineer — Infosys Ltd."
+        ]
+      },
+      {
+        "role": "",
+        "company": "",
+        "duration": "Jul 2020 – Dec 2021",
+        "responsibilities": [
+          "Developed REST APIs for an e-commerce client (US market) using Django REST Framework",
+          "Reduced PostgreSQL query times by 40% through indexing and query optimization",
+          "Collaborated with cross-functional teams across 3 time zones"
+        ]
+      }
+    ],
+    "projects": [],
+    "organizations": [
+      "Software Engineer — Infosys Ltd.",
+      "• Collaborated",
+      "Computer Science — National Institute of Technology",
+      "GitHub Actions",
+      "• Google Professional Data Engineer",
+      "TypeScript",
+      "• Led",
+      "Kubernetes",
+      "SQL",
+      "JavaScript"
+    ],
+    "sections": {
+      "summary": "Full-stack software engineer with 4 years of experience building scalable web applications using Python,\nDjango, and React. Passionate about clean code, system design, and mentoring junior developers.\nContributed to products serving 2M+ users.\n",
+      "experience": "Senior Software Engineer — Flipkart Internet Pvt. Ltd.\nJan 2022 – Present\n• Architected a microservices-based order management system reducing latency by 35%\n• Led migration of monolithic Django app to FastAPI, improving throughput by 60%\n• Mentored 3 junior engineers; conducted weekly code reviews\nSoftware Engineer — Infosys Ltd.\nJul 2020 – Dec 2021\n• Developed REST APIs for an e-commerce client (US market) using Django REST Framework\n• Reduced PostgreSQL query times by 40% through indexing and query optimization\n• Collaborated with cross-functional teams across 3 time zones\n",
+      "projects": "",
+      "skills": "Languages: Python, JavaScript, TypeScript, SQL, Bash\nFrameworks: Django, FastAPI, React, Node.js, Redux\nDatabases: PostgreSQL, MongoDB, Redis\nCloud/DevOps: AWS (EC2, S3, Lambda), Docker, Kubernetes, GitHub Actions\nTools: Git, Jira, Postman, Jupyter, VS Code\n",
+      "education": "B.Tech in Computer Science — National Institute of Technology, Trichy\n2016 – 2020 | CGPA: 8.7 / 10\nCERTIFICATIONS\n• AWS Certified Solutions Architect – Associate (2023)\n• Google Professional Data Engineer (2022)\n"
+    }
+  },
+  "questions": [
+    {
+      "question": "Tell me about a project where you applied skills relevant to Software Engineer.",
+      "type": "experience",
+      "category": "behavioral",
+      "skill_tested": "General Experience",
+      "difficulty": "easy",
+      "expected_keywords": [
+        "project",
+        "team",
+        "implementation",
+        "outcome"
+      ],
+      "follow_up": "What was the most challenging part?"
+    },
+    {
+      "question": "Describe a challenging technical problem you solved recently.",
+      "type": "behavioral",
+      "category": "behavioral",
+      "skill_tested": "Problem Solving",
+      "difficulty": "medium",
+      "expected_keywords": [
+        "challenge",
+        "approach",
+        "trade-offs",
+        "result"
+      ],
+      "follow_up": "How would you approach it differently now?"
+    },
+    {
+      "question": "Walk me through how you'd design a system for a high-traffic application.",
+      "type": "system_design",
+      "category": "system_design",
+      "skill_tested": "System Design",
+      "difficulty": "hard",
+      "expected_keywords": [
+        "scalability",
+        "load balancing",
+        "database",
+        "caching"
+      ],
+      "follow_up": "How would your design change at 10x scale?"
+    }
+  ],
+  "transcripts": {},
+  "scoring": {
+    "per_question": [
+      {
+        "technical_accuracy": 0,
+        "depth": 0,
+        "relevance": 0,
+        "clarity": 0,
+        "ai_likeness": 0,
+        "red_flags": [
+          "no_answer_provided"
+        ],
+        "feedback": "No answer was provided for this question.",
+        "keyword_hits": [],
+        "aggregate": 0.0,
+        "question_id": "q1",
+        "question": "Tell me about a project where you applied skills relevant to Software Engineer.",
+        "skill_tested": "General Experience"
+      },
+      {
+        "technical_accuracy": 0,
+        "depth": 0,
+        "relevance": 0,
+        "clarity": 0,
+        "ai_likeness": 0,
+        "red_flags": [
+          "no_answer_provided"
+        ],
+        "feedback": "No answer was provided for this question.",
+        "keyword_hits": [],
+        "aggregate": 0.0,
+        "question_id": "q2",
+        "question": "Describe a challenging technical problem you solved recently.",
+        "skill_tested": "Problem Solving"
+      },
+      {
+        "technical_accuracy": 0,
+        "depth": 0,
+        "relevance": 0,
+        "clarity": 0,
+        "ai_likeness": 0,
+        "red_flags": [
+          "no_answer_provided"
+        ],
+        "feedback": "No answer was provided for this question.",
+        "keyword_hits": [],
+        "aggregate": 0.0,
+        "question_id": "q3",
+        "question": "Walk me through how you'd design a system for a high-traffic application.",
+        "skill_tested": "System Design"
+      }
+    ],
+    "overall": {
+      "average": 0.0,
+      "scored_count": 3,
+      "total": 3,
+      "red_flags": []
+    }
+  },
+  "aggregated_scores": {
+    "overall_score": 0.0,
+    "technical_score": 0.0,
+    "communication_score": 0.0,
+    "ai_suspicion_level": 0.0,
+    "ai_risk": "unknown",
+    "high_ai_count": 0,
+    "red_flag_count": 0,
+    "red_flags": [],
+    "score_breakdown": {},
+    "by_skill": {},
+    "by_difficulty": {},
+    "by_category": {},
+    "coverage": 0.0,
+    "consistency": 0.0,
+    "scored_count": 0,
+    "skipped_count": 3,
+    "total_questions": 3,
+    "recommendation": "reject",
+    "recommendation_reason": "no answerable responses"
+  }
+}
