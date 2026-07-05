@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "cofoundai",
+      "runtimeExecutable": "/Users/sheikhmohamadreza/cofoundAI/venv/bin/python",
+      "runtimeArgs": ["/Users/sheikhmohamadreza/cofoundAI/app.py"],
+      "port": 5002
+    }
+  ]
+}

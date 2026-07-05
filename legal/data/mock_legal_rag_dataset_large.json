@@ -1,0 +1,2675 @@
+{
+  "version": "1.0",
+  "documents": [
+    {
+      "id": "contract_001",
+      "category": "contract_template",
+      "title": "NDA",
+      "content": "Mock template for NDA. Includes parties, scope, payment, confidentiality, IP, liability, termination and governing law."
+    },
+    {
+      "id": "contract_002",
+      "category": "contract_template",
+      "title": "Employment Agreement",
+      "content": "Mock template for Employment Agreement. Includes parties, scope, payment, confidentiality, IP, liability, termination and governing law."
+    },
+    {
+      "id": "contract_003",
+      "category": "contract_template",
+      "title": "Freelancer Agreement",
+      "content": "Mock template for Freelancer Agreement. Includes parties, scope, payment, confidentiality, IP, liability, termination and governing law."
+    },
+    {
+      "id": "contract_004",
+      "category": "contract_template",
+      "title": "Service Agreement",
+      "content": "Mock template for Service Agreement. Includes parties, scope, payment, confidentiality, IP, liability, termination and governing law."
+    },
+    {
+      "id": "contract_005",
+      "category": "contract_template",
+      "title": "Vendor Agreement",
+      "content": "Mock template for Vendor Agreement. Includes parties, scope, payment, confidentiality, IP, liability, termination and governing law."
+    },
+    {
+      "id": "contract_006",
+      "category": "contract_template",
+      "title": "Customer Agreement",
+      "content": "Mock template for Customer Agreement. Includes parties, scope, payment, confidentiality, IP, liability, termination and governing law."
+    },
+    {
+      "id": "contract_007",
+      "category": "contract_template",
+      "title": "SaaS Agreement",
+      "content": "Mock template for SaaS Agreement. Includes parties, scope, payment, confidentiality, IP, liability, termination and governing law."
+    },
+    {
+      "id": "contract_008",
+      "category": "contract_template",
+      "title": "Partnership Agreement",
+      "content": "Mock template for Partnership Agreement. Includes parties, scope, payment, confidentiality, IP, liability, termination and governing law."
+    },
+    {
+      "id": "contract_009",
+      "category": "contract_template",
+      "title": "Consulting Agreement",
+      "content": "Mock template for Consulting Agreement. Includes parties, scope, payment, confidentiality, IP, liability, termination and governing law."
+    },
+    {
+      "id": "contract_010",
+      "category": "contract_template",
+      "title": "Privacy Policy",
+      "content": "Mock template for Privacy Policy. Includes parties, scope, payment, confidentiality, IP, liability, termination and governing law."
+    },
+    {
+      "id": "contract_011",
+      "category": "contract_template",
+      "title": "Terms of Service",
+      "content": "Mock template for Terms of Service. Includes parties, scope, payment, confidentiality, IP, liability, termination and governing law."
+    },
+    {
+      "id": "contract_012",
+      "category": "contract_template",
+      "title": "Cookie Policy",
+      "content": "Mock template for Cookie Policy. Includes parties, scope, payment, confidentiality, IP, liability, termination and governing law."
+    },
+    {
+      "id": "contract_013",
+      "category": "contract_template",
+      "title": "Data Processing Agreement",
+      "content": "Mock template for Data Processing Agreement. Includes parties, scope, payment, confidentiality, IP, liability, termination and governing law."
+    },
+    {
+      "id": "contract_014",
+      "category": "contract_template",
+      "title": "Offer Letter",
+      "content": "Mock template for Offer Letter. Includes parties, scope, payment, confidentiality, IP, liability, termination and governing law."
+    },
+    {
+      "id": "contract_015",
+      "category": "contract_template",
+      "title": "Internship Agreement",
+      "content": "Mock template for Internship Agreement. Includes parties, scope, payment, confidentiality, IP, liability, termination and governing law."
+    },
+    {
+      "id": "review_000",
+      "category": "contract_review",
+      "clause": "Unlimited Liability",
+      "risk": "High",
+      "content": "Example clause 0: Unlimited Liability appears in a commercial agreement.",
+      "recommendation": "Negotiate a liability cap."
+    },
+    {
+      "id": "review_001",
+      "category": "contract_review",
+      "clause": "Auto Renewal",
+      "risk": "Medium",
+      "content": "Example clause 1: Auto Renewal appears in a commercial agreement.",
+      "recommendation": "Review renewal notice."
+    },
+    {
+      "id": "review_002",
+      "category": "contract_review",
+      "clause": "IP Ownership",
+      "risk": "High",
+      "content": "Example clause 2: IP Ownership appears in a commercial agreement.",
+      "recommendation": "Ensure company owns created IP."
+    },
+    {
+      "id": "review_003",
+      "category": "contract_review",
+      "clause": "Termination",
+      "risk": "Medium",
+      "content": "Example clause 3: Termination appears in a commercial agreement.",
+      "recommendation": "Add mutual notice period."
+    },
+    {
+      "id": "review_004",
+      "category": "contract_review",
+      "clause": "Confidentiality",
+      "risk": "Low",
+      "content": "Example clause 4: Confidentiality appears in a commercial agreement.",
+      "recommendation": "Ensure survival clause."
+    },
+    {
+      "id": "review_005",
+      "category": "contract_review",
+      "clause": "Indemnity",
+      "risk": "High",
+      "content": "Example clause 5: Indemnity appears in a commercial agreement.",
+      "recommendation": "Limit broad indemnity."
+    },
+    {
+      "id": "review_006",
+      "category": "contract_review",
+      "clause": "Payment Terms",
+      "risk": "Medium",
+      "content": "Example clause 6: Payment Terms appears in a commercial agreement.",
+      "recommendation": "Prefer Net-30."
+    },
+    {
+      "id": "review_007",
+      "category": "contract_review",
+      "clause": "Force Majeure",
+      "risk": "Low",
+      "content": "Example clause 7: Force Majeure appears in a commercial agreement.",
+      "recommendation": "Define covered events."
+    },
+    {
+      "id": "review_008",
+      "category": "contract_review",
+      "clause": "Arbitration",
+      "risk": "Low",
+      "content": "Example clause 8: Arbitration appears in a commercial agreement.",
+      "recommendation": "Specify venue."
+    },
+    {
+      "id": "review_009",
+      "category": "contract_review",
+      "clause": "Governing Law",
+      "risk": "Low",
+      "content": "Example clause 9: Governing Law appears in a commercial agreement.",
+      "recommendation": "Confirm jurisdiction."
+    },
+    {
+      "id": "review_010",
+      "category": "contract_review",
+      "clause": "Unlimited Liability",
+      "risk": "High",
+      "content": "Example clause 10: Unlimited Liability appears in a commercial agreement.",
+      "recommendation": "Negotiate a liability cap."
+    },
+    {
+      "id": "review_011",
+      "category": "contract_review",
+      "clause": "Auto Renewal",
+      "risk": "Medium",
+      "content": "Example clause 11: Auto Renewal appears in a commercial agreement.",
+      "recommendation": "Review renewal notice."
+    },
+    {
+      "id": "review_012",
+      "category": "contract_review",
+      "clause": "IP Ownership",
+      "risk": "High",
+      "content": "Example clause 12: IP Ownership appears in a commercial agreement.",
+      "recommendation": "Ensure company owns created IP."
+    },
+    {
+      "id": "review_013",
+      "category": "contract_review",
+      "clause": "Termination",
+      "risk": "Medium",
+      "content": "Example clause 13: Termination appears in a commercial agreement.",
+      "recommendation": "Add mutual notice period."
+    },
+    {
+      "id": "review_014",
+      "category": "contract_review",
+      "clause": "Confidentiality",
+      "risk": "Low",
+      "content": "Example clause 14: Confidentiality appears in a commercial agreement.",
+      "recommendation": "Ensure survival clause."
+    },
+    {
+      "id": "review_015",
+      "category": "contract_review",
+      "clause": "Indemnity",
+      "risk": "High",
+      "content": "Example clause 15: Indemnity appears in a commercial agreement.",
+      "recommendation": "Limit broad indemnity."
+    },
+    {
+      "id": "review_016",
+      "category": "contract_review",
+      "clause": "Payment Terms",
+      "risk": "Medium",
+      "content": "Example clause 16: Payment Terms appears in a commercial agreement.",
+      "recommendation": "Prefer Net-30."
+    },
+    {
+      "id": "review_017",
+      "category": "contract_review",
+      "clause": "Force Majeure",
+      "risk": "Low",
+      "content": "Example clause 17: Force Majeure appears in a commercial agreement.",
+      "recommendation": "Define covered events."
+    },
+    {
+      "id": "review_018",
+      "category": "contract_review",
+      "clause": "Arbitration",
+      "risk": "Low",
+      "content": "Example clause 18: Arbitration appears in a commercial agreement.",
+      "recommendation": "Specify venue."
+    },
+    {
+      "id": "review_019",
+      "category": "contract_review",
+      "clause": "Governing Law",
+      "risk": "Low",
+      "content": "Example clause 19: Governing Law appears in a commercial agreement.",
+      "recommendation": "Confirm jurisdiction."
+    },
+    {
+      "id": "review_020",
+      "category": "contract_review",
+      "clause": "Unlimited Liability",
+      "risk": "High",
+      "content": "Example clause 20: Unlimited Liability appears in a commercial agreement.",
+      "recommendation": "Negotiate a liability cap."
+    },
+    {
+      "id": "review_021",
+      "category": "contract_review",
+      "clause": "Auto Renewal",
+      "risk": "Medium",
+      "content": "Example clause 21: Auto Renewal appears in a commercial agreement.",
+      "recommendation": "Review renewal notice."
+    },
+    {
+      "id": "review_022",
+      "category": "contract_review",
+      "clause": "IP Ownership",
+      "risk": "High",
+      "content": "Example clause 22: IP Ownership appears in a commercial agreement.",
+      "recommendation": "Ensure company owns created IP."
+    },
+    {
+      "id": "review_023",
+      "category": "contract_review",
+      "clause": "Termination",
+      "risk": "Medium",
+      "content": "Example clause 23: Termination appears in a commercial agreement.",
+      "recommendation": "Add mutual notice period."
+    },
+    {
+      "id": "review_024",
+      "category": "contract_review",
+      "clause": "Confidentiality",
+      "risk": "Low",
+      "content": "Example clause 24: Confidentiality appears in a commercial agreement.",
+      "recommendation": "Ensure survival clause."
+    },
+    {
+      "id": "review_025",
+      "category": "contract_review",
+      "clause": "Indemnity",
+      "risk": "High",
+      "content": "Example clause 25: Indemnity appears in a commercial agreement.",
+      "recommendation": "Limit broad indemnity."
+    },
+    {
+      "id": "review_026",
+      "category": "contract_review",
+      "clause": "Payment Terms",
+      "risk": "Medium",
+      "content": "Example clause 26: Payment Terms appears in a commercial agreement.",
+      "recommendation": "Prefer Net-30."
+    },
+    {
+      "id": "review_027",
+      "category": "contract_review",
+      "clause": "Force Majeure",
+      "risk": "Low",
+      "content": "Example clause 27: Force Majeure appears in a commercial agreement.",
+      "recommendation": "Define covered events."
+    },
+    {
+      "id": "review_028",
+      "category": "contract_review",
+      "clause": "Arbitration",
+      "risk": "Low",
+      "content": "Example clause 28: Arbitration appears in a commercial agreement.",
+      "recommendation": "Specify venue."
+    },
+    {
+      "id": "review_029",
+      "category": "contract_review",
+      "clause": "Governing Law",
+      "risk": "Low",
+      "content": "Example clause 29: Governing Law appears in a commercial agreement.",
+      "recommendation": "Confirm jurisdiction."
+    },
+    {
+      "id": "review_030",
+      "category": "contract_review",
+      "clause": "Unlimited Liability",
+      "risk": "High",
+      "content": "Example clause 30: Unlimited Liability appears in a commercial agreement.",
+      "recommendation": "Negotiate a liability cap."
+    },
+    {
+      "id": "review_031",
+      "category": "contract_review",
+      "clause": "Auto Renewal",
+      "risk": "Medium",
+      "content": "Example clause 31: Auto Renewal appears in a commercial agreement.",
+      "recommendation": "Review renewal notice."
+    },
+    {
+      "id": "review_032",
+      "category": "contract_review",
+      "clause": "IP Ownership",
+      "risk": "High",
+      "content": "Example clause 32: IP Ownership appears in a commercial agreement.",
+      "recommendation": "Ensure company owns created IP."
+    },
+    {
+      "id": "review_033",
+      "category": "contract_review",
+      "clause": "Termination",
+      "risk": "Medium",
+      "content": "Example clause 33: Termination appears in a commercial agreement.",
+      "recommendation": "Add mutual notice period."
+    },
+    {
+      "id": "review_034",
+      "category": "contract_review",
+      "clause": "Confidentiality",
+      "risk": "Low",
+      "content": "Example clause 34: Confidentiality appears in a commercial agreement.",
+      "recommendation": "Ensure survival clause."
+    },
+    {
+      "id": "review_035",
+      "category": "contract_review",
+      "clause": "Indemnity",
+      "risk": "High",
+      "content": "Example clause 35: Indemnity appears in a commercial agreement.",
+      "recommendation": "Limit broad indemnity."
+    },
+    {
+      "id": "review_036",
+      "category": "contract_review",
+      "clause": "Payment Terms",
+      "risk": "Medium",
+      "content": "Example clause 36: Payment Terms appears in a commercial agreement.",
+      "recommendation": "Prefer Net-30."
+    },
+    {
+      "id": "review_037",
+      "category": "contract_review",
+      "clause": "Force Majeure",
+      "risk": "Low",
+      "content": "Example clause 37: Force Majeure appears in a commercial agreement.",
+      "recommendation": "Define covered events."
+    },
+    {
+      "id": "review_038",
+      "category": "contract_review",
+      "clause": "Arbitration",
+      "risk": "Low",
+      "content": "Example clause 38: Arbitration appears in a commercial agreement.",
+      "recommendation": "Specify venue."
+    },
+    {
+      "id": "review_039",
+      "category": "contract_review",
+      "clause": "Governing Law",
+      "risk": "Low",
+      "content": "Example clause 39: Governing Law appears in a commercial agreement.",
+      "recommendation": "Confirm jurisdiction."
+    },
+    {
+      "id": "review_040",
+      "category": "contract_review",
+      "clause": "Unlimited Liability",
+      "risk": "High",
+      "content": "Example clause 40: Unlimited Liability appears in a commercial agreement.",
+      "recommendation": "Negotiate a liability cap."
+    },
+    {
+      "id": "review_041",
+      "category": "contract_review",
+      "clause": "Auto Renewal",
+      "risk": "Medium",
+      "content": "Example clause 41: Auto Renewal appears in a commercial agreement.",
+      "recommendation": "Review renewal notice."
+    },
+    {
+      "id": "review_042",
+      "category": "contract_review",
+      "clause": "IP Ownership",
+      "risk": "High",
+      "content": "Example clause 42: IP Ownership appears in a commercial agreement.",
+      "recommendation": "Ensure company owns created IP."
+    },
+    {
+      "id": "review_043",
+      "category": "contract_review",
+      "clause": "Termination",
+      "risk": "Medium",
+      "content": "Example clause 43: Termination appears in a commercial agreement.",
+      "recommendation": "Add mutual notice period."
+    },
+    {
+      "id": "review_044",
+      "category": "contract_review",
+      "clause": "Confidentiality",
+      "risk": "Low",
+      "content": "Example clause 44: Confidentiality appears in a commercial agreement.",
+      "recommendation": "Ensure survival clause."
+    },
+    {
+      "id": "review_045",
+      "category": "contract_review",
+      "clause": "Indemnity",
+      "risk": "High",
+      "content": "Example clause 45: Indemnity appears in a commercial agreement.",
+      "recommendation": "Limit broad indemnity."
+    },
+    {
+      "id": "review_046",
+      "category": "contract_review",
+      "clause": "Payment Terms",
+      "risk": "Medium",
+      "content": "Example clause 46: Payment Terms appears in a commercial agreement.",
+      "recommendation": "Prefer Net-30."
+    },
+    {
+      "id": "review_047",
+      "category": "contract_review",
+      "clause": "Force Majeure",
+      "risk": "Low",
+      "content": "Example clause 47: Force Majeure appears in a commercial agreement.",
+      "recommendation": "Define covered events."
+    },
+    {
+      "id": "review_048",
+      "category": "contract_review",
+      "clause": "Arbitration",
+      "risk": "Low",
+      "content": "Example clause 48: Arbitration appears in a commercial agreement.",
+      "recommendation": "Specify venue."
+    },
+    {
+      "id": "review_049",
+      "category": "contract_review",
+      "clause": "Governing Law",
+      "risk": "Low",
+      "content": "Example clause 49: Governing Law appears in a commercial agreement.",
+      "recommendation": "Confirm jurisdiction."
+    },
+    {
+      "id": "review_050",
+      "category": "contract_review",
+      "clause": "Unlimited Liability",
+      "risk": "High",
+      "content": "Example clause 50: Unlimited Liability appears in a commercial agreement.",
+      "recommendation": "Negotiate a liability cap."
+    },
+    {
+      "id": "review_051",
+      "category": "contract_review",
+      "clause": "Auto Renewal",
+      "risk": "Medium",
+      "content": "Example clause 51: Auto Renewal appears in a commercial agreement.",
+      "recommendation": "Review renewal notice."
+    },
+    {
+      "id": "review_052",
+      "category": "contract_review",
+      "clause": "IP Ownership",
+      "risk": "High",
+      "content": "Example clause 52: IP Ownership appears in a commercial agreement.",
+      "recommendation": "Ensure company owns created IP."
+    },
+    {
+      "id": "review_053",
+      "category": "contract_review",
+      "clause": "Termination",
+      "risk": "Medium",
+      "content": "Example clause 53: Termination appears in a commercial agreement.",
+      "recommendation": "Add mutual notice period."
+    },
+    {
+      "id": "review_054",
+      "category": "contract_review",
+      "clause": "Confidentiality",
+      "risk": "Low",
+      "content": "Example clause 54: Confidentiality appears in a commercial agreement.",
+      "recommendation": "Ensure survival clause."
+    },
+    {
+      "id": "review_055",
+      "category": "contract_review",
+      "clause": "Indemnity",
+      "risk": "High",
+      "content": "Example clause 55: Indemnity appears in a commercial agreement.",
+      "recommendation": "Limit broad indemnity."
+    },
+    {
+      "id": "review_056",
+      "category": "contract_review",
+      "clause": "Payment Terms",
+      "risk": "Medium",
+      "content": "Example clause 56: Payment Terms appears in a commercial agreement.",
+      "recommendation": "Prefer Net-30."
+    },
+    {
+      "id": "review_057",
+      "category": "contract_review",
+      "clause": "Force Majeure",
+      "risk": "Low",
+      "content": "Example clause 57: Force Majeure appears in a commercial agreement.",
+      "recommendation": "Define covered events."
+    },
+    {
+      "id": "review_058",
+      "category": "contract_review",
+      "clause": "Arbitration",
+      "risk": "Low",
+      "content": "Example clause 58: Arbitration appears in a commercial agreement.",
+      "recommendation": "Specify venue."
+    },
+    {
+      "id": "review_059",
+      "category": "contract_review",
+      "clause": "Governing Law",
+      "risk": "Low",
+      "content": "Example clause 59: Governing Law appears in a commercial agreement.",
+      "recommendation": "Confirm jurisdiction."
+    },
+    {
+      "id": "review_060",
+      "category": "contract_review",
+      "clause": "Unlimited Liability",
+      "risk": "High",
+      "content": "Example clause 60: Unlimited Liability appears in a commercial agreement.",
+      "recommendation": "Negotiate a liability cap."
+    },
+    {
+      "id": "review_061",
+      "category": "contract_review",
+      "clause": "Auto Renewal",
+      "risk": "Medium",
+      "content": "Example clause 61: Auto Renewal appears in a commercial agreement.",
+      "recommendation": "Review renewal notice."
+    },
+    {
+      "id": "review_062",
+      "category": "contract_review",
+      "clause": "IP Ownership",
+      "risk": "High",
+      "content": "Example clause 62: IP Ownership appears in a commercial agreement.",
+      "recommendation": "Ensure company owns created IP."
+    },
+    {
+      "id": "review_063",
+      "category": "contract_review",
+      "clause": "Termination",
+      "risk": "Medium",
+      "content": "Example clause 63: Termination appears in a commercial agreement.",
+      "recommendation": "Add mutual notice period."
+    },
+    {
+      "id": "review_064",
+      "category": "contract_review",
+      "clause": "Confidentiality",
+      "risk": "Low",
+      "content": "Example clause 64: Confidentiality appears in a commercial agreement.",
+      "recommendation": "Ensure survival clause."
+    },
+    {
+      "id": "review_065",
+      "category": "contract_review",
+      "clause": "Indemnity",
+      "risk": "High",
+      "content": "Example clause 65: Indemnity appears in a commercial agreement.",
+      "recommendation": "Limit broad indemnity."
+    },
+    {
+      "id": "review_066",
+      "category": "contract_review",
+      "clause": "Payment Terms",
+      "risk": "Medium",
+      "content": "Example clause 66: Payment Terms appears in a commercial agreement.",
+      "recommendation": "Prefer Net-30."
+    },
+    {
+      "id": "review_067",
+      "category": "contract_review",
+      "clause": "Force Majeure",
+      "risk": "Low",
+      "content": "Example clause 67: Force Majeure appears in a commercial agreement.",
+      "recommendation": "Define covered events."
+    },
+    {
+      "id": "review_068",
+      "category": "contract_review",
+      "clause": "Arbitration",
+      "risk": "Low",
+      "content": "Example clause 68: Arbitration appears in a commercial agreement.",
+      "recommendation": "Specify venue."
+    },
+    {
+      "id": "review_069",
+      "category": "contract_review",
+      "clause": "Governing Law",
+      "risk": "Low",
+      "content": "Example clause 69: Governing Law appears in a commercial agreement.",
+      "recommendation": "Confirm jurisdiction."
+    },
+    {
+      "id": "review_070",
+      "category": "contract_review",
+      "clause": "Unlimited Liability",
+      "risk": "High",
+      "content": "Example clause 70: Unlimited Liability appears in a commercial agreement.",
+      "recommendation": "Negotiate a liability cap."
+    },
+    {
+      "id": "review_071",
+      "category": "contract_review",
+      "clause": "Auto Renewal",
+      "risk": "Medium",
+      "content": "Example clause 71: Auto Renewal appears in a commercial agreement.",
+      "recommendation": "Review renewal notice."
+    },
+    {
+      "id": "review_072",
+      "category": "contract_review",
+      "clause": "IP Ownership",
+      "risk": "High",
+      "content": "Example clause 72: IP Ownership appears in a commercial agreement.",
+      "recommendation": "Ensure company owns created IP."
+    },
+    {
+      "id": "review_073",
+      "category": "contract_review",
+      "clause": "Termination",
+      "risk": "Medium",
+      "content": "Example clause 73: Termination appears in a commercial agreement.",
+      "recommendation": "Add mutual notice period."
+    },
+    {
+      "id": "review_074",
+      "category": "contract_review",
+      "clause": "Confidentiality",
+      "risk": "Low",
+      "content": "Example clause 74: Confidentiality appears in a commercial agreement.",
+      "recommendation": "Ensure survival clause."
+    },
+    {
+      "id": "review_075",
+      "category": "contract_review",
+      "clause": "Indemnity",
+      "risk": "High",
+      "content": "Example clause 75: Indemnity appears in a commercial agreement.",
+      "recommendation": "Limit broad indemnity."
+    },
+    {
+      "id": "review_076",
+      "category": "contract_review",
+      "clause": "Payment Terms",
+      "risk": "Medium",
+      "content": "Example clause 76: Payment Terms appears in a commercial agreement.",
+      "recommendation": "Prefer Net-30."
+    },
+    {
+      "id": "review_077",
+      "category": "contract_review",
+      "clause": "Force Majeure",
+      "risk": "Low",
+      "content": "Example clause 77: Force Majeure appears in a commercial agreement.",
+      "recommendation": "Define covered events."
+    },
+    {
+      "id": "review_078",
+      "category": "contract_review",
+      "clause": "Arbitration",
+      "risk": "Low",
+      "content": "Example clause 78: Arbitration appears in a commercial agreement.",
+      "recommendation": "Specify venue."
+    },
+    {
+      "id": "review_079",
+      "category": "contract_review",
+      "clause": "Governing Law",
+      "risk": "Low",
+      "content": "Example clause 79: Governing Law appears in a commercial agreement.",
+      "recommendation": "Confirm jurisdiction."
+    },
+    {
+      "id": "review_080",
+      "category": "contract_review",
+      "clause": "Unlimited Liability",
+      "risk": "High",
+      "content": "Example clause 80: Unlimited Liability appears in a commercial agreement.",
+      "recommendation": "Negotiate a liability cap."
+    },
+    {
+      "id": "review_081",
+      "category": "contract_review",
+      "clause": "Auto Renewal",
+      "risk": "Medium",
+      "content": "Example clause 81: Auto Renewal appears in a commercial agreement.",
+      "recommendation": "Review renewal notice."
+    },
+    {
+      "id": "review_082",
+      "category": "contract_review",
+      "clause": "IP Ownership",
+      "risk": "High",
+      "content": "Example clause 82: IP Ownership appears in a commercial agreement.",
+      "recommendation": "Ensure company owns created IP."
+    },
+    {
+      "id": "review_083",
+      "category": "contract_review",
+      "clause": "Termination",
+      "risk": "Medium",
+      "content": "Example clause 83: Termination appears in a commercial agreement.",
+      "recommendation": "Add mutual notice period."
+    },
+    {
+      "id": "review_084",
+      "category": "contract_review",
+      "clause": "Confidentiality",
+      "risk": "Low",
+      "content": "Example clause 84: Confidentiality appears in a commercial agreement.",
+      "recommendation": "Ensure survival clause."
+    },
+    {
+      "id": "review_085",
+      "category": "contract_review",
+      "clause": "Indemnity",
+      "risk": "High",
+      "content": "Example clause 85: Indemnity appears in a commercial agreement.",
+      "recommendation": "Limit broad indemnity."
+    },
+    {
+      "id": "review_086",
+      "category": "contract_review",
+      "clause": "Payment Terms",
+      "risk": "Medium",
+      "content": "Example clause 86: Payment Terms appears in a commercial agreement.",
+      "recommendation": "Prefer Net-30."
+    },
+    {
+      "id": "review_087",
+      "category": "contract_review",
+      "clause": "Force Majeure",
+      "risk": "Low",
+      "content": "Example clause 87: Force Majeure appears in a commercial agreement.",
+      "recommendation": "Define covered events."
+    },
+    {
+      "id": "review_088",
+      "category": "contract_review",
+      "clause": "Arbitration",
+      "risk": "Low",
+      "content": "Example clause 88: Arbitration appears in a commercial agreement.",
+      "recommendation": "Specify venue."
+    },
+    {
+      "id": "review_089",
+      "category": "contract_review",
+      "clause": "Governing Law",
+      "risk": "Low",
+      "content": "Example clause 89: Governing Law appears in a commercial agreement.",
+      "recommendation": "Confirm jurisdiction."
+    },
+    {
+      "id": "review_090",
+      "category": "contract_review",
+      "clause": "Unlimited Liability",
+      "risk": "High",
+      "content": "Example clause 90: Unlimited Liability appears in a commercial agreement.",
+      "recommendation": "Negotiate a liability cap."
+    },
+    {
+      "id": "review_091",
+      "category": "contract_review",
+      "clause": "Auto Renewal",
+      "risk": "Medium",
+      "content": "Example clause 91: Auto Renewal appears in a commercial agreement.",
+      "recommendation": "Review renewal notice."
+    },
+    {
+      "id": "review_092",
+      "category": "contract_review",
+      "clause": "IP Ownership",
+      "risk": "High",
+      "content": "Example clause 92: IP Ownership appears in a commercial agreement.",
+      "recommendation": "Ensure company owns created IP."
+    },
+    {
+      "id": "review_093",
+      "category": "contract_review",
+      "clause": "Termination",
+      "risk": "Medium",
+      "content": "Example clause 93: Termination appears in a commercial agreement.",
+      "recommendation": "Add mutual notice period."
+    },
+    {
+      "id": "review_094",
+      "category": "contract_review",
+      "clause": "Confidentiality",
+      "risk": "Low",
+      "content": "Example clause 94: Confidentiality appears in a commercial agreement.",
+      "recommendation": "Ensure survival clause."
+    },
+    {
+      "id": "review_095",
+      "category": "contract_review",
+      "clause": "Indemnity",
+      "risk": "High",
+      "content": "Example clause 95: Indemnity appears in a commercial agreement.",
+      "recommendation": "Limit broad indemnity."
+    },
+    {
+      "id": "review_096",
+      "category": "contract_review",
+      "clause": "Payment Terms",
+      "risk": "Medium",
+      "content": "Example clause 96: Payment Terms appears in a commercial agreement.",
+      "recommendation": "Prefer Net-30."
+    },
+    {
+      "id": "review_097",
+      "category": "contract_review",
+      "clause": "Force Majeure",
+      "risk": "Low",
+      "content": "Example clause 97: Force Majeure appears in a commercial agreement.",
+      "recommendation": "Define covered events."
+    },
+    {
+      "id": "review_098",
+      "category": "contract_review",
+      "clause": "Arbitration",
+      "risk": "Low",
+      "content": "Example clause 98: Arbitration appears in a commercial agreement.",
+      "recommendation": "Specify venue."
+    },
+    {
+      "id": "review_099",
+      "category": "contract_review",
+      "clause": "Governing Law",
+      "risk": "Low",
+      "content": "Example clause 99: Governing Law appears in a commercial agreement.",
+      "recommendation": "Confirm jurisdiction."
+    },
+    {
+      "id": "review_100",
+      "category": "contract_review",
+      "clause": "Unlimited Liability",
+      "risk": "High",
+      "content": "Example clause 100: Unlimited Liability appears in a commercial agreement.",
+      "recommendation": "Negotiate a liability cap."
+    },
+    {
+      "id": "review_101",
+      "category": "contract_review",
+      "clause": "Auto Renewal",
+      "risk": "Medium",
+      "content": "Example clause 101: Auto Renewal appears in a commercial agreement.",
+      "recommendation": "Review renewal notice."
+    },
+    {
+      "id": "review_102",
+      "category": "contract_review",
+      "clause": "IP Ownership",
+      "risk": "High",
+      "content": "Example clause 102: IP Ownership appears in a commercial agreement.",
+      "recommendation": "Ensure company owns created IP."
+    },
+    {
+      "id": "review_103",
+      "category": "contract_review",
+      "clause": "Termination",
+      "risk": "Medium",
+      "content": "Example clause 103: Termination appears in a commercial agreement.",
+      "recommendation": "Add mutual notice period."
+    },
+    {
+      "id": "review_104",
+      "category": "contract_review",
+      "clause": "Confidentiality",
+      "risk": "Low",
+      "content": "Example clause 104: Confidentiality appears in a commercial agreement.",
+      "recommendation": "Ensure survival clause."
+    },
+    {
+      "id": "review_105",
+      "category": "contract_review",
+      "clause": "Indemnity",
+      "risk": "High",
+      "content": "Example clause 105: Indemnity appears in a commercial agreement.",
+      "recommendation": "Limit broad indemnity."
+    },
+    {
+      "id": "review_106",
+      "category": "contract_review",
+      "clause": "Payment Terms",
+      "risk": "Medium",
+      "content": "Example clause 106: Payment Terms appears in a commercial agreement.",
+      "recommendation": "Prefer Net-30."
+    },
+    {
+      "id": "review_107",
+      "category": "contract_review",
+      "clause": "Force Majeure",
+      "risk": "Low",
+      "content": "Example clause 107: Force Majeure appears in a commercial agreement.",
+      "recommendation": "Define covered events."
+    },
+    {
+      "id": "review_108",
+      "category": "contract_review",
+      "clause": "Arbitration",
+      "risk": "Low",
+      "content": "Example clause 108: Arbitration appears in a commercial agreement.",
+      "recommendation": "Specify venue."
+    },
+    {
+      "id": "review_109",
+      "category": "contract_review",
+      "clause": "Governing Law",
+      "risk": "Low",
+      "content": "Example clause 109: Governing Law appears in a commercial agreement.",
+      "recommendation": "Confirm jurisdiction."
+    },
+    {
+      "id": "review_110",
+      "category": "contract_review",
+      "clause": "Unlimited Liability",
+      "risk": "High",
+      "content": "Example clause 110: Unlimited Liability appears in a commercial agreement.",
+      "recommendation": "Negotiate a liability cap."
+    },
+    {
+      "id": "review_111",
+      "category": "contract_review",
+      "clause": "Auto Renewal",
+      "risk": "Medium",
+      "content": "Example clause 111: Auto Renewal appears in a commercial agreement.",
+      "recommendation": "Review renewal notice."
+    },
+    {
+      "id": "review_112",
+      "category": "contract_review",
+      "clause": "IP Ownership",
+      "risk": "High",
+      "content": "Example clause 112: IP Ownership appears in a commercial agreement.",
+      "recommendation": "Ensure company owns created IP."
+    },
+    {
+      "id": "review_113",
+      "category": "contract_review",
+      "clause": "Termination",
+      "risk": "Medium",
+      "content": "Example clause 113: Termination appears in a commercial agreement.",
+      "recommendation": "Add mutual notice period."
+    },
+    {
+      "id": "review_114",
+      "category": "contract_review",
+      "clause": "Confidentiality",
+      "risk": "Low",
+      "content": "Example clause 114: Confidentiality appears in a commercial agreement.",
+      "recommendation": "Ensure survival clause."
+    },
+    {
+      "id": "review_115",
+      "category": "contract_review",
+      "clause": "Indemnity",
+      "risk": "High",
+      "content": "Example clause 115: Indemnity appears in a commercial agreement.",
+      "recommendation": "Limit broad indemnity."
+    },
+    {
+      "id": "review_116",
+      "category": "contract_review",
+      "clause": "Payment Terms",
+      "risk": "Medium",
+      "content": "Example clause 116: Payment Terms appears in a commercial agreement.",
+      "recommendation": "Prefer Net-30."
+    },
+    {
+      "id": "review_117",
+      "category": "contract_review",
+      "clause": "Force Majeure",
+      "risk": "Low",
+      "content": "Example clause 117: Force Majeure appears in a commercial agreement.",
+      "recommendation": "Define covered events."
+    },
+    {
+      "id": "review_118",
+      "category": "contract_review",
+      "clause": "Arbitration",
+      "risk": "Low",
+      "content": "Example clause 118: Arbitration appears in a commercial agreement.",
+      "recommendation": "Specify venue."
+    },
+    {
+      "id": "review_119",
+      "category": "contract_review",
+      "clause": "Governing Law",
+      "risk": "Low",
+      "content": "Example clause 119: Governing Law appears in a commercial agreement.",
+      "recommendation": "Confirm jurisdiction."
+    },
+    {
+      "id": "faq_000",
+      "category": "faq",
+      "question": "Legal startup question #1?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_001",
+      "category": "faq",
+      "question": "Legal startup question #2?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_002",
+      "category": "faq",
+      "question": "Legal startup question #3?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_003",
+      "category": "faq",
+      "question": "Legal startup question #4?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_004",
+      "category": "faq",
+      "question": "Legal startup question #5?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_005",
+      "category": "faq",
+      "question": "Legal startup question #6?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_006",
+      "category": "faq",
+      "question": "Legal startup question #7?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_007",
+      "category": "faq",
+      "question": "Legal startup question #8?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_008",
+      "category": "faq",
+      "question": "Legal startup question #9?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_009",
+      "category": "faq",
+      "question": "Legal startup question #10?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_010",
+      "category": "faq",
+      "question": "Legal startup question #11?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_011",
+      "category": "faq",
+      "question": "Legal startup question #12?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_012",
+      "category": "faq",
+      "question": "Legal startup question #13?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_013",
+      "category": "faq",
+      "question": "Legal startup question #14?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_014",
+      "category": "faq",
+      "question": "Legal startup question #15?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_015",
+      "category": "faq",
+      "question": "Legal startup question #16?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_016",
+      "category": "faq",
+      "question": "Legal startup question #17?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_017",
+      "category": "faq",
+      "question": "Legal startup question #18?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_018",
+      "category": "faq",
+      "question": "Legal startup question #19?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_019",
+      "category": "faq",
+      "question": "Legal startup question #20?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_020",
+      "category": "faq",
+      "question": "Legal startup question #21?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_021",
+      "category": "faq",
+      "question": "Legal startup question #22?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_022",
+      "category": "faq",
+      "question": "Legal startup question #23?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_023",
+      "category": "faq",
+      "question": "Legal startup question #24?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_024",
+      "category": "faq",
+      "question": "Legal startup question #25?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_025",
+      "category": "faq",
+      "question": "Legal startup question #26?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_026",
+      "category": "faq",
+      "question": "Legal startup question #27?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_027",
+      "category": "faq",
+      "question": "Legal startup question #28?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_028",
+      "category": "faq",
+      "question": "Legal startup question #29?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_029",
+      "category": "faq",
+      "question": "Legal startup question #30?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_030",
+      "category": "faq",
+      "question": "Legal startup question #31?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_031",
+      "category": "faq",
+      "question": "Legal startup question #32?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_032",
+      "category": "faq",
+      "question": "Legal startup question #33?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_033",
+      "category": "faq",
+      "question": "Legal startup question #34?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_034",
+      "category": "faq",
+      "question": "Legal startup question #35?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_035",
+      "category": "faq",
+      "question": "Legal startup question #36?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_036",
+      "category": "faq",
+      "question": "Legal startup question #37?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_037",
+      "category": "faq",
+      "question": "Legal startup question #38?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_038",
+      "category": "faq",
+      "question": "Legal startup question #39?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_039",
+      "category": "faq",
+      "question": "Legal startup question #40?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_040",
+      "category": "faq",
+      "question": "Legal startup question #41?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_041",
+      "category": "faq",
+      "question": "Legal startup question #42?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_042",
+      "category": "faq",
+      "question": "Legal startup question #43?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_043",
+      "category": "faq",
+      "question": "Legal startup question #44?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_044",
+      "category": "faq",
+      "question": "Legal startup question #45?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_045",
+      "category": "faq",
+      "question": "Legal startup question #46?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_046",
+      "category": "faq",
+      "question": "Legal startup question #47?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_047",
+      "category": "faq",
+      "question": "Legal startup question #48?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_048",
+      "category": "faq",
+      "question": "Legal startup question #49?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_049",
+      "category": "faq",
+      "question": "Legal startup question #50?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_050",
+      "category": "faq",
+      "question": "Legal startup question #51?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_051",
+      "category": "faq",
+      "question": "Legal startup question #52?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_052",
+      "category": "faq",
+      "question": "Legal startup question #53?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_053",
+      "category": "faq",
+      "question": "Legal startup question #54?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_054",
+      "category": "faq",
+      "question": "Legal startup question #55?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_055",
+      "category": "faq",
+      "question": "Legal startup question #56?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_056",
+      "category": "faq",
+      "question": "Legal startup question #57?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_057",
+      "category": "faq",
+      "question": "Legal startup question #58?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_058",
+      "category": "faq",
+      "question": "Legal startup question #59?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_059",
+      "category": "faq",
+      "question": "Legal startup question #60?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_060",
+      "category": "faq",
+      "question": "Legal startup question #61?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_061",
+      "category": "faq",
+      "question": "Legal startup question #62?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_062",
+      "category": "faq",
+      "question": "Legal startup question #63?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_063",
+      "category": "faq",
+      "question": "Legal startup question #64?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_064",
+      "category": "faq",
+      "question": "Legal startup question #65?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_065",
+      "category": "faq",
+      "question": "Legal startup question #66?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_066",
+      "category": "faq",
+      "question": "Legal startup question #67?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_067",
+      "category": "faq",
+      "question": "Legal startup question #68?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_068",
+      "category": "faq",
+      "question": "Legal startup question #69?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_069",
+      "category": "faq",
+      "question": "Legal startup question #70?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_070",
+      "category": "faq",
+      "question": "Legal startup question #71?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_071",
+      "category": "faq",
+      "question": "Legal startup question #72?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_072",
+      "category": "faq",
+      "question": "Legal startup question #73?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_073",
+      "category": "faq",
+      "question": "Legal startup question #74?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_074",
+      "category": "faq",
+      "question": "Legal startup question #75?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_075",
+      "category": "faq",
+      "question": "Legal startup question #76?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_076",
+      "category": "faq",
+      "question": "Legal startup question #77?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_077",
+      "category": "faq",
+      "question": "Legal startup question #78?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_078",
+      "category": "faq",
+      "question": "Legal startup question #79?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_079",
+      "category": "faq",
+      "question": "Legal startup question #80?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_080",
+      "category": "faq",
+      "question": "Legal startup question #81?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_081",
+      "category": "faq",
+      "question": "Legal startup question #82?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_082",
+      "category": "faq",
+      "question": "Legal startup question #83?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_083",
+      "category": "faq",
+      "question": "Legal startup question #84?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_084",
+      "category": "faq",
+      "question": "Legal startup question #85?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_085",
+      "category": "faq",
+      "question": "Legal startup question #86?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_086",
+      "category": "faq",
+      "question": "Legal startup question #87?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_087",
+      "category": "faq",
+      "question": "Legal startup question #88?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_088",
+      "category": "faq",
+      "question": "Legal startup question #89?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_089",
+      "category": "faq",
+      "question": "Legal startup question #90?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_090",
+      "category": "faq",
+      "question": "Legal startup question #91?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_091",
+      "category": "faq",
+      "question": "Legal startup question #92?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_092",
+      "category": "faq",
+      "question": "Legal startup question #93?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_093",
+      "category": "faq",
+      "question": "Legal startup question #94?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_094",
+      "category": "faq",
+      "question": "Legal startup question #95?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_095",
+      "category": "faq",
+      "question": "Legal startup question #96?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_096",
+      "category": "faq",
+      "question": "Legal startup question #97?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_097",
+      "category": "faq",
+      "question": "Legal startup question #98?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_098",
+      "category": "faq",
+      "question": "Legal startup question #99?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "faq_099",
+      "category": "faq",
+      "question": "Legal startup question #100?",
+      "answer": "Answer based on mock legal guidance. Consult a qualified lawyer for binding legal advice.",
+      "tags": [
+        "startup",
+        "legal",
+        "compliance"
+      ]
+    },
+    {
+      "id": "compliance_000",
+      "category": "compliance",
+      "task": "Annual filing",
+      "frequency": "Monthly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_001",
+      "category": "compliance",
+      "task": "GST return",
+      "frequency": "Yearly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_002",
+      "category": "compliance",
+      "task": "Tax return",
+      "frequency": "Monthly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_003",
+      "category": "compliance",
+      "task": "Trademark renewal",
+      "frequency": "Monthly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_004",
+      "category": "compliance",
+      "task": "License renewal",
+      "frequency": "Yearly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_005",
+      "category": "compliance",
+      "task": "Contract review",
+      "frequency": "Monthly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_006",
+      "category": "compliance",
+      "task": "Board meeting",
+      "frequency": "Quarterly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_007",
+      "category": "compliance",
+      "task": "Payroll compliance",
+      "frequency": "One-time",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_008",
+      "category": "compliance",
+      "task": "Annual filing",
+      "frequency": "Yearly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_009",
+      "category": "compliance",
+      "task": "GST return",
+      "frequency": "Yearly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_010",
+      "category": "compliance",
+      "task": "Tax return",
+      "frequency": "Monthly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_011",
+      "category": "compliance",
+      "task": "Trademark renewal",
+      "frequency": "Monthly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_012",
+      "category": "compliance",
+      "task": "License renewal",
+      "frequency": "Yearly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_013",
+      "category": "compliance",
+      "task": "Contract review",
+      "frequency": "Quarterly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_014",
+      "category": "compliance",
+      "task": "Board meeting",
+      "frequency": "One-time",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_015",
+      "category": "compliance",
+      "task": "Payroll compliance",
+      "frequency": "One-time",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_016",
+      "category": "compliance",
+      "task": "Annual filing",
+      "frequency": "One-time",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_017",
+      "category": "compliance",
+      "task": "GST return",
+      "frequency": "Yearly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_018",
+      "category": "compliance",
+      "task": "Tax return",
+      "frequency": "Monthly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_019",
+      "category": "compliance",
+      "task": "Trademark renewal",
+      "frequency": "Yearly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_020",
+      "category": "compliance",
+      "task": "License renewal",
+      "frequency": "One-time",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_021",
+      "category": "compliance",
+      "task": "Contract review",
+      "frequency": "Yearly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_022",
+      "category": "compliance",
+      "task": "Board meeting",
+      "frequency": "Yearly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_023",
+      "category": "compliance",
+      "task": "Payroll compliance",
+      "frequency": "Monthly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_024",
+      "category": "compliance",
+      "task": "Annual filing",
+      "frequency": "One-time",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_025",
+      "category": "compliance",
+      "task": "GST return",
+      "frequency": "Quarterly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_026",
+      "category": "compliance",
+      "task": "Tax return",
+      "frequency": "Yearly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_027",
+      "category": "compliance",
+      "task": "Trademark renewal",
+      "frequency": "One-time",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_028",
+      "category": "compliance",
+      "task": "License renewal",
+      "frequency": "One-time",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_029",
+      "category": "compliance",
+      "task": "Contract review",
+      "frequency": "One-time",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_030",
+      "category": "compliance",
+      "task": "Board meeting",
+      "frequency": "One-time",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_031",
+      "category": "compliance",
+      "task": "Payroll compliance",
+      "frequency": "Yearly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_032",
+      "category": "compliance",
+      "task": "Annual filing",
+      "frequency": "Quarterly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_033",
+      "category": "compliance",
+      "task": "GST return",
+      "frequency": "Yearly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_034",
+      "category": "compliance",
+      "task": "Tax return",
+      "frequency": "Yearly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_035",
+      "category": "compliance",
+      "task": "Trademark renewal",
+      "frequency": "Quarterly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_036",
+      "category": "compliance",
+      "task": "License renewal",
+      "frequency": "One-time",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_037",
+      "category": "compliance",
+      "task": "Contract review",
+      "frequency": "Quarterly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_038",
+      "category": "compliance",
+      "task": "Board meeting",
+      "frequency": "Yearly",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "compliance_039",
+      "category": "compliance",
+      "task": "Payroll compliance",
+      "frequency": "One-time",
+      "description": "Mock compliance requirement for demo purposes."
+    },
+    {
+      "id": "policy_000",
+      "category": "policy",
+      "title": "Company Policy 1",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_001",
+      "category": "policy",
+      "title": "Company Policy 2",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_002",
+      "category": "policy",
+      "title": "Company Policy 3",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_003",
+      "category": "policy",
+      "title": "Company Policy 4",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_004",
+      "category": "policy",
+      "title": "Company Policy 5",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_005",
+      "category": "policy",
+      "title": "Company Policy 6",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_006",
+      "category": "policy",
+      "title": "Company Policy 7",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_007",
+      "category": "policy",
+      "title": "Company Policy 8",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_008",
+      "category": "policy",
+      "title": "Company Policy 9",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_009",
+      "category": "policy",
+      "title": "Company Policy 10",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_010",
+      "category": "policy",
+      "title": "Company Policy 11",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_011",
+      "category": "policy",
+      "title": "Company Policy 12",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_012",
+      "category": "policy",
+      "title": "Company Policy 13",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_013",
+      "category": "policy",
+      "title": "Company Policy 14",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_014",
+      "category": "policy",
+      "title": "Company Policy 15",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_015",
+      "category": "policy",
+      "title": "Company Policy 16",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_016",
+      "category": "policy",
+      "title": "Company Policy 17",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_017",
+      "category": "policy",
+      "title": "Company Policy 18",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_018",
+      "category": "policy",
+      "title": "Company Policy 19",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_019",
+      "category": "policy",
+      "title": "Company Policy 20",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_020",
+      "category": "policy",
+      "title": "Company Policy 21",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_021",
+      "category": "policy",
+      "title": "Company Policy 22",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_022",
+      "category": "policy",
+      "title": "Company Policy 23",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_023",
+      "category": "policy",
+      "title": "Company Policy 24",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_024",
+      "category": "policy",
+      "title": "Company Policy 25",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_025",
+      "category": "policy",
+      "title": "Company Policy 26",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_026",
+      "category": "policy",
+      "title": "Company Policy 27",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_027",
+      "category": "policy",
+      "title": "Company Policy 28",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_028",
+      "category": "policy",
+      "title": "Company Policy 29",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_029",
+      "category": "policy",
+      "title": "Company Policy 30",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_030",
+      "category": "policy",
+      "title": "Company Policy 31",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_031",
+      "category": "policy",
+      "title": "Company Policy 32",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_032",
+      "category": "policy",
+      "title": "Company Policy 33",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_033",
+      "category": "policy",
+      "title": "Company Policy 34",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_034",
+      "category": "policy",
+      "title": "Company Policy 35",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_035",
+      "category": "policy",
+      "title": "Company Policy 36",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_036",
+      "category": "policy",
+      "title": "Company Policy 37",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_037",
+      "category": "policy",
+      "title": "Company Policy 38",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_038",
+      "category": "policy",
+      "title": "Company Policy 39",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    },
+    {
+      "id": "policy_039",
+      "category": "policy",
+      "title": "Company Policy 40",
+      "content": "Mock internal policy covering acceptable use, security, privacy, conduct and reporting."
+    }
+  ]
+}

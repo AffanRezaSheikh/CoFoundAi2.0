@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CoFoundAI · Startup OS</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+
+  <!-- ── Login overlay ─────────────────────────────── -->
+  <div id="login" class="login-overlay">
+    <div class="login-card">
+      <div class="login-logo">◈</div>
+      <h1>CoFoundAI</h1>
+      <p class="login-sub">Your AI co-founder operating system</p>
+      <form id="login-form">
+        <input id="startup-name" type="text" placeholder="Enter your startup name" autocomplete="off" required />
+        <button type="submit">Enter Workspace →</button>
+      </form>
+      <p class="login-hint">Finance · Hiring · Legal — all in one place</p>
+    </div>
+  </div>
+
+  <!-- ── Main app ──────────────────────────────────── -->
+  <div id="app" class="app hidden">
+    <aside class="sidebar">
+      <div class="brand">
+        <span class="brand-mark">◈</span>
+        <div>
+          <div class="brand-name" id="brand-name">Startup</div>
+          <div class="brand-tag">Operating System</div>
+        </div>
+      </div>
+
+      <nav class="agent-nav">
+        <button class="agent-btn active" data-agent="finance">
+          <span class="agent-ico">💰</span>
+          <span><b>Finance</b><small>Cash, burn & runway</small></span>
+        </button>
+        <button class="agent-btn" data-agent="hr">
+          <span class="agent-ico">🧑‍💼</span>
+          <span><b>Hiring</b><small>Bias-free shortlist</small></span>
+        </button>
+        <button class="agent-btn" data-agent="legal">
+          <span class="agent-ico">⚖️</span>
+          <span><b>Legal</b><small>Contracts & policy</small></span>
+        </button>
+      </nav>
+
+      <div class="sidebar-foot">
+        <div class="status-dot"></div> Agents online
+      </div>
+    </aside>
+
+    <main class="chat">
+      <header class="chat-head">
+        <div>
+          <h2 id="agent-title">Finance Agent</h2>
+          <p id="agent-desc">Ask about your company's financial health.</p>
+        </div>
+        <button id="new-chat" class="ghost-btn">＋ New</button>
+      </header>
+
+      <div id="messages" class="messages"></div>
+
+      <div class="composer">
+        <div id="quick-actions" class="quick-actions"></div>
+        <form id="composer-form">
+          <input id="composer-input" type="text" placeholder="Type a message…" autocomplete="off" />
+          <button type="submit" id="send-btn">↑</button>
+        </form>
+      </div>
+    </main>
+  </div>
+
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
